@@ -38,6 +38,12 @@ Welcome to my GitHub profile! I am a **Data Science student** passionate about s
 - Improved detection rates with machine learning algorithms, reducing false positives.
 - Strengthened network security by accurately classifying and detecting threats.
 
+### 🌬️ [Prediction of the Production of a Wind Farm](https://github.com/aymen-msalmi/Prediction-of-the-production-of-a-wind-farm)
+- Built a machine learning model to predict the monthly electricity production (in kWh) of a wind farm with 50 turbines.
+- Applied data preprocessing, feature engineering, and hyperparameter optimization.
+- Used real-world turbine data to predict power output based on wind speed and direction.
+
+
 ---
 
 ## 📜 Certifications

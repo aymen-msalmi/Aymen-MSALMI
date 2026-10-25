@@ -21,6 +21,16 @@ Welcome to my GitHub profile! I am a **Data Science student** passionate about s
 
 ## 📂 Featured Projects
 
+### 🔒 [Intrusion Detection System](https://github.com/aymen-msalmi/intrusion-detection)
+- Implemented an intrusion detection system using the **KDD Cup 99 dataset**.
+- Improved detection rates with machine learning algorithms, reducing false positives.
+- Strengthened network security by accurately classifying and detecting threats.
+
+### 🌬️ [Prediction of the Production of a Wind Farm](https://github.com/aymen-msalmi/Prediction-of-the-production-of-a-wind-farm)
+- Built a machine learning model to predict the monthly electricity production (in kWh) of a wind farm with 50 turbines.
+- Applied data preprocessing, feature engineering, and hyperparameter optimization.
+- Used real-world turbine data to predict power output based on wind speed and direction.
+
 ### 🛠️ [Recommendation System for Risk Management](https://github.com/aymen-msalmi/risk-management)
 - Designed an AI-based system to align with PMI standards.
 - Leveraged NLP to improve user decision-making by analyzing textual data.
@@ -32,16 +42,6 @@ Welcome to my GitHub profile! I am a **Data Science student** passionate about s
 ### 📚 [Educational Platform for Dyslexic Learners (Dyspru)](https://github.com/aymen-msalmi/dyspru)
 - Created a digital platform integrating voice recognition to aid literacy.
 - Personalized learning experiences to boost outcomes for dyslexic students.
-
-### 🔒 [Intrusion Detection System](https://github.com/aymen-msalmi/intrusion-detection)
-- Implemented an intrusion detection system using the **KDD Cup 99 dataset**.
-- Improved detection rates with machine learning algorithms, reducing false positives.
-- Strengthened network security by accurately classifying and detecting threats.
-
-### 🌬️ [Prediction of the Production of a Wind Farm](https://github.com/aymen-msalmi/Prediction-of-the-production-of-a-wind-farm)
-- Built a machine learning model to predict the monthly electricity production (in kWh) of a wind farm with 50 turbines.
-- Applied data preprocessing, feature engineering, and hyperparameter optimization.
-- Used real-world turbine data to predict power output based on wind speed and direction.
 
 
 ---

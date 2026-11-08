@@ -1,22 +1,20 @@
-# 👋 Hi, I’m Aymen MSALMI
+# Hi, I'm Aymen Msalmi 👋
 
-Welcome to my GitHub profile! I am a **Data Science student** passionate about solving real-world problems through **machine learning**, **deep learning**, and **natural language processing (NLP)**. I love working on innovative solutions that combine data-driven insights with cutting-edge AI techniques.
+Data Scientist & AI Engineer building machine learning systems that run in production, with experience in NLP, LLMs and anomaly detection.
+
+## About me
+- 🔬 Engineering degree in Computer Science (Data Science), ESPRIT, 2025, and MSc in Fluid Physics
+- 💼 Data Scientist & AI Engineer at Securas Technologies: I design detection pipelines (XGBoost, FastText, vector search, LLM adjudication) that process millions of requests
+- 🌍 Based in Tunisia, open to roles worldwide (on-site, hybrid or remote)
+- 🗣️ Arabic (native), French, English
 
 ---
 
-## 🌟 About Me
-- 🎓 Currently pursuing an **Engineering degree in Computer Science** with a specialization in Data Science at Esprit.
-- 🌱 Exploring advanced techniques in **deep learning** and **NLP** to tackle complex challenges.
-- 🔭 Actively working on AI-driven projects that make an impact in various domains.
-
----
-
-## 🔧 Skills & Tools
-- **Programming Languages:** Python, Java, C, SQL
-- **Frameworks & Libraries:** TensorFlow, Scikit-learn, Pandas, Matplotlib
-- **Machine Learning Techniques:** Neural Networks, K-Nearest Neighbors, Decision Trees, Random Forest
-- **Specializations:** Natural Language Processing (NLP), Computer Vision, Deep Learning
-
+## Skills & tools
+- **Languages:** Python, SQL, TypeScript
+- **ML / AI:** Scikit-learn, XGBoost, FastText, PyTorch, TensorFlow, NLP, LLMs, RAG, embeddings, vector search, anomaly detection, computer vision
+- **Backend & data:** FastAPI, MongoDB, Qdrant, Redis, Neo4j
+- **DevOps:** Docker, Nginx, Git, Linux
 ---
 
 ## 📂 Featured Projects
@@ -49,14 +47,17 @@ Welcome to my GitHub profile! I am a **Data Science student** passionate about s
 ## 📜 Certifications
 - **NLP Specialization (DeepLearning.AI)**  
 - **Python for Data Science (Dyma.fr)**  
-- **Algorithms and Data Structures (Dyma.fr)**  
+- **Algorithms and Data Structures (Dyma.fr)**
+- - NLP Specialization (DeepLearning.AI)
+- Azure Services, Lifecycles & Security (Microsoft)
+- Docker, Git, Linux, Python, Machine Learning (Dyma.fr)
 - [More certifications here](https://github.com/aymen-msalmi/certifications)
 
 ---
 
 ## 📫 Let’s Connect!
 - 🌐 [LinkedIn](https://www.linkedin.com/in/aymen-msalmi--aymen-msalmi/)
-- 📧 [Email](mailto:aymen.msalmi@esprit.tn)
+- 📧 [Email](mailto:aym.msalmi@gmail.com)
 
 ---
 

@@ -48,9 +48,8 @@ Data Scientist & AI Engineer building machine learning systems that run in produ
 - **NLP Specialization (DeepLearning.AI)**  
 - **Python for Data Science (Dyma.fr)**  
 - **Algorithms and Data Structures (Dyma.fr)**
-- - NLP Specialization (DeepLearning.AI)
-- Azure Services, Lifecycles & Security (Microsoft)
-- Docker, Git, Linux, Python, Machine Learning (Dyma.fr)
+- **Azure Services, Lifecycles & Security (Microsoft)**
+- **Docker, Git, Linux, Python, Machine Learning (Dyma.fr)**
 - [More certifications here](https://github.com/aymen-msalmi/certifications)
 
 ---

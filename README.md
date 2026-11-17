@@ -29,17 +29,6 @@ Data Scientist & AI Engineer building machine learning systems that run in produ
 - Applied data preprocessing, feature engineering, and hyperparameter optimization.
 - Used real-world turbine data to predict power output based on wind speed and direction.
 
-### 🛠️ [Recommendation System for Risk Management](https://github.com/aymen-msalmi/risk-management)
-- Designed an AI-based system to align with PMI standards.
-- Leveraged NLP to improve user decision-making by analyzing textual data.
-
-### 🦌 [Wildlife Detection Using UAV Imagery](https://github.com/aymen-msalmi/wildlife-detection)
-- Built a detection framework using Mask R-CNN with weakly supervised learning.
-- Enhanced performance through image augmentation techniques.
-
-### 📚 [Educational Platform for Dyslexic Learners (Dyspru)](https://github.com/aymen-msalmi/dyspru)
-- Created a digital platform integrating voice recognition to aid literacy.
-- Personalized learning experiences to boost outcomes for dyslexic students.
 
 
 ---
